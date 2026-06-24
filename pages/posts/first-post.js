@@ -18,7 +18,7 @@ export default function FirstPost() {
                     }
                 />
             </Head>
-            <h1>First Post</h1>;
+            <h1>First Post</h1>
             <h2> <Link href="/" className={styles.link}>Back</Link></h2>
 
         </Layout>
